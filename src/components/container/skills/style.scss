@@ -1,0 +1,57 @@
+.skills {
+    padding: 30px;
+    background-color: #000;
+    text-align: center;
+  
+    .skills_content_wrapper {
+      display: flex;
+      justify-content: space-between;
+      gap: 50px;
+      margin-top: 60px;
+  
+      @media (max-width: 768px) {
+        flex-direction: column;
+        align-items: center;
+      }
+  
+      .skills_content_wrapper_inner-content {
+        flex: 1;
+        text-align: center;
+  
+        .skills_content_wrapper_inner-content_category-text {
+          color: yellow;
+          font-size: 24px;
+          font-weight: bold;
+          text-transform: uppercase;
+          border-bottom: 2px solid yellow;
+          padding-bottom: 15px;
+          display: inline-block;
+          margin-bottom: 30px;
+        }
+  
+        .skills_content_wrapper_inner-content_progressbar-container {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          gap: 40px;
+  
+          .progressbar-wrapper {
+            width: 100%;
+            max-width: 300px;
+            text-align: left;
+  
+            p {
+              color: white;
+              font-size: 18px;
+              font-weight: bold;
+              margin-bottom: 5px;
+            }
+  
+            .rc-progress-line {
+              width: 100%;
+            }
+          }
+        }
+      }
+    }
+  }

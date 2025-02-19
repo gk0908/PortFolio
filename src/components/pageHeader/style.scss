@@ -1,0 +1,22 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-bottom:  1px dashed yellow;
+
+    h2{
+        font-size: 36px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+        line-height: 1rem;
+        text-transform: capitalize;
+        color: yellow;
+        display: flex;
+        flex-grow: 1;
+    }
+    span{
+        svg{
+            color: yellow;
+        }
+    }
+}

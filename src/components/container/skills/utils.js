@@ -1,0 +1,57 @@
+export const skillsData=[
+    {
+        label:"Front End",
+        data:[
+            {
+            skillName:"HTML",
+            percentage:90,
+            },
+             {
+            skillName:"CSS",
+            percentage:85,
+            },
+             { 
+                skillName:"JavaScript",
+                percentage:60,
+            },
+        ],
+    },
+    {
+        label:"Back End",
+        data:[
+            {
+            skillName:"Node.js",
+            percentage:60,
+            },
+             {
+            skillName:"Express.js",
+            percentage:65,
+            },
+             { 
+                skillName:"Java",
+                percentage:70,
+            },
+             {
+                skillName:"Python",
+                percentage:60,
+            },
+        ],
+    },
+     {
+        label:"Database",
+        data:[
+            {
+            skillName:"MongoDB",
+            percentage:60,
+            },
+             {
+            skillName:"MySQL",
+            percentage:85,
+            },
+             {
+                skillName:"ORACLE",
+                percentage:75,
+            },
+        ],
+     }
+]
