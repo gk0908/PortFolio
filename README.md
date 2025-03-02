@@ -33,8 +33,7 @@ Check out the live version of my portfolio here: https://gopikota.vercel.app/
    - The project runs on `http://localhost:3000`
 
 ## 🎥 Credits
-This portfolio was built by following a **YouTube tutorial**, with custom modifications to match my personal style.
-
+This portfolio was created with custom modifications inspired by a YouTube tutorial, tailored to reflect my personal style.
 
 # React + Vite
 
