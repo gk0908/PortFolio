@@ -1,3 +1,41 @@
+# Personal Portfolio Website (React.js)
+
+## 🚀 Overview
+This is my **personal portfolio website**, built using **React.js**. It showcases my skills, projects, and contact information in a dynamic and modern way.
+
+## 🎨 Features
+- 🌟 Built with **React.js** for a modular and maintainable structure
+- 📌 Fully responsive and modern UI design
+- 🎬 Smooth scrolling and animations
+- 📂 Dedicated sections for **About, Skills, Projects, and Contact**
+  
+🌐 Live Demo
+Check out the live version of my portfolio here: https://gopikota.vercel.app/
+
+## 🛠️ How to Run Locally
+1. **Clone this repository:**
+   ```sh
+   git clone https://github.com/gk0908/PortFolio.git
+   ```
+2. **Navigate to the project folder:**
+   ```sh
+   cd PortFolio
+   ```
+3. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+4. **Run the development server:**
+   ```sh
+   npm run dev
+   ```
+5. **Open in Browser:**
+   - The project runs on `http://localhost:3000`
+
+## 🎥 Credits
+This portfolio was built by following a **YouTube tutorial**, with custom modifications to match my personal style.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
